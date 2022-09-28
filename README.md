@@ -1,3 +1,21 @@
+# Project Setup
+Install all dependencies
+```
+npm i
+```
+Install Quasar CLI
+```
+npm i -g @quasar/cli
+```
+Run project 
+```
+quasar dev
+```
+Build project
+```
+quasar build
+```
+
 # Available Functions
 
 There are four different collections added into the project:
